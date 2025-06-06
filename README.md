@@ -14,7 +14,7 @@ This repository includes 4 complete projects:
 - **Models**: Logistic Regression, Decision Tree, XGBoost.
 - **Techniques**: Class imbalance handling, data standardization, exploratory data analysis.
 - **Kaggle Link**: [Notebook](https://www.kaggle.com/code/dohachbihi/heart-stroke-prediction)
-- 📂 Folder: `Projet_1_Stroke_Prediction/`
+
 
 ---
 
@@ -23,7 +23,7 @@ This repository includes 4 complete projects:
 - **Models**: Convolutional Neural Network (CNN), XGBoost.
 - **Techniques**: Image reshaping, normalization, handling class imbalance.
 - **Kaggle Link**: [Notebook](https://www.kaggle.com/code/dohachbihi/skin-cancer)
-- 📂 Folder: `Projet_2_Skin_Cancer_Classification/`
+
 
 ---
 
@@ -32,7 +32,6 @@ This repository includes 4 complete projects:
 - **Models**: Linear Regression, Random Forest, XGBoost.
 - **Performance**: R² ≈ 0.89 with XGBoost.
 - **Kaggle Link**: [Notebook](https://www.kaggle.com/code/dohachbihi/house-prices-prediction)
-- 📂 Folder: `Projet_3_House_Price_Prediction/`
 
 ---
 
@@ -41,7 +40,6 @@ This repository includes 4 complete projects:
 - **Models**: TF-IDF + Naive Bayes, Sentence-BERT + Logistic Regression.
 - **Performance**: Validation Accuracy ≈ 58% using BERT.
 - **Kaggle Link**: [Notebook](https://www.kaggle.com/code/dohachbihi/movie-genre-classification)
-- 📂 Folder: `Projet_4_Movie_Genre_Classification/`
 
 ---
 
